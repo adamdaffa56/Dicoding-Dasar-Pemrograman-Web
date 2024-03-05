@@ -7,7 +7,6 @@ header {
     background-color: #7F27FF;
     text-align: center;
     width: 100%;
-    padding: 20px;
     box-sizing: border-box;
     display: inline-block;
     color: white;
@@ -29,6 +28,7 @@ ul {
     width: 100%;
     overflow: hidden;
     position: sticky;
+    margin-top: 10px;
 }
 
 li {
